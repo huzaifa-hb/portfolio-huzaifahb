@@ -729,7 +729,6 @@ export default function App() {
         </div>
 
         <div className="mt-10 text-center text-xs text-slate-600 dark:text-slate-400 print:hidden">
-          Cards now use fixed light and dark backgrounds with readable text. Use the theme button to switch modes.
         </div>
       </div>
 
