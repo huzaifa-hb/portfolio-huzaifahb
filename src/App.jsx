@@ -729,6 +729,7 @@ export default function App() {
         </div>
 
         <div className="mt-10 text-center text-xs text-slate-600 dark:text-slate-400 print:hidden">
+          Huzaifa Binyameen - Digital Marketing Specialist.
         </div>
       </div>
 
