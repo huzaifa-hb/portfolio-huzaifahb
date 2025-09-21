@@ -29,7 +29,6 @@ const LINKS = {
   linkedin: "https://www.linkedin.com/in/huzaifahb/",
   portfolio:
     "https://drive.google.com/drive/folders/1Hbc_Qp8chfqgR_FVbXJVMpFpXLXpkyoU?usp=sharing",
-  whatsapp: "https://wa.me/923056686900",
 };
 
 const CONTACT = {
