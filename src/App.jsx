@@ -372,15 +372,6 @@ export default function App() {
                   <LinkIcon className="h-4 w-4" />
                   Portfolio
                 </a>
-                <a
-                  href={LINKS.whatsapp}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="underline inline-flex items-center gap-1 text-slate-800 dark:text-slate-200"
-                >
-                  <MessageSquare className="h-4 w-4" />
-                  WhatsApp
-                </a>
               </div>
             </div>
           </div>
