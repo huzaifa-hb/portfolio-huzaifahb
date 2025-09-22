@@ -627,6 +627,16 @@ export default function App() {
                       </Button>
                     </a>
                     <a
+                      href="https://calendly.com/calendly-huzaifahb/discovery-call"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="col-span-2"
+                    >
+                      <Button className="w-full justify-center gap-2 bg-blue-600 text-white hover:bg-blue-700 dark:bg-blue-600 dark:hover:bg-blue-700">
+                        <MessageSquare className="h-4 w-4" /> Book a Meeting
+                      </Button>
+                    </a>
+                    <a
                       href={LINKS.linkedin}
                       target="_blank"
                       rel="noreferrer"
@@ -644,16 +654,6 @@ export default function App() {
                     >
                       <Button className="w-full justify-center bg-white text-slate-900 hover:bg-slate-100 border border-slate-300 dark:bg-slate-900 dark:text-slate-100 dark:hover:bg-slate-800 dark:border-slate-700">
                         Open Portfolio
-                      </Button>
-                    </a>
-                    <a
-                      href={LINKS.linkedin}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="col-span-2 bg-white text-slate-900 hover:bg-slate-100 border border-slate-300 dark:bg-slate-900 dark:text-slate-100 dark:hover:bg-slate-800 dark:border-slate-700"
-                    >
-                      <Button className="w-full justify-center bg-white text-slate-900 hover:bg-slate-100 border border-slate-300 dark:bg-slate-900 dark:text-slate-100 dark:hover:bg-slate-800 dark:border-slate-700">
-                        Open LinkedIn Profile
                       </Button>
                     </a>
                   </div>
