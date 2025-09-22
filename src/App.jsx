@@ -647,16 +647,6 @@ export default function App() {
                       </Button>
                     </a>
                     <a
-                      href={LINKS.whatsapp}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="col-span-2"
-                    >
-                      <Button className="w-full justify-center bg-white text-slate-900 hover:bg-slate-100 border border-slate-300 dark:bg-slate-900 dark:text-slate-100 dark:hover:bg-slate-800 dark:border-slate-700">
-                        WhatsApp Chat
-                      </Button>
-                    </a>
-                    <a
                       href={LINKS.linkedin}
                       target="_blank"
                       rel="noreferrer"
