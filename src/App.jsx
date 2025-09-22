@@ -22,6 +22,7 @@ import {
   Link as LinkIcon,
   MessageSquare,
   Download,
+  Calendar,
 } from "lucide-react";
 
 // Live links
@@ -633,7 +634,7 @@ export default function App() {
                       className="col-span-2"
                     >
                       <Button className="w-full justify-center gap-2 bg-blue-600 text-white hover:bg-blue-700 dark:bg-blue-600 dark:hover:bg-blue-700">
-                        <MessageSquare className="h-4 w-4" /> Book a Meeting
+                        <Calendar className="h-4 w-4" /> Book a Meeting
                       </Button>
                     </a>
                     <a
